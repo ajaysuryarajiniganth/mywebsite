@@ -2,8 +2,9 @@
 
 this is a file
 
-Before Release
+Before Rebase
 
 ## Repository Purpose 
 
-This file is a conflict with remote side locally
+This is a readme fime
+
